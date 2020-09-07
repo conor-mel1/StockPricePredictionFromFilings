@@ -1,0 +1,74 @@
+---
+title: "Untitled"
+author: "Conor"
+date: "9/3/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+Statement <- c("Balance Sheet", "Balance Sheet", "Balance Sheet", "Balance Sheet", "Cash Flow", "Cash Flow", "Cash Flow", "Cash Flow", "Income Statement", "Income Statement", "Income Statement" , "Income Statement", "Merged Statements", "Merged Statements", "Merged Statements", "Merged Statements")
+Algorithm  <- c( "Decision Tree", "KNN", "Random Forest", "FCNN", "Decision Tree", "KNN", "Random Forest", "FCNN", "Decision Tree", "KNN", "Random Forest", "FCNN", "Decision Tree", "KNN", "Random Forest", "FCNN")
+MAE <- c( 16.94, 15.94, 16.08, 15.91 , 16.36, 16.24, 16.67, 15.91 , 16.68, 15.49, 16.24, 15.90 , 16.84, 15.46, 15.69, 15.90 )
+
+Std_Error <- c(2.09, 1.08, 1.95, 1.07 , 2.16, 2.28, 1.96, 1.43 , 1.81, 1.60, 1.67, 1.03 , 2.61, 2.20, 1.76, 1.60 )
+
+df <- data.frame(Statement, Algorithm, MAE, Std_Error)
+df
+
+```
+
+
+
+```{r fig.width=10, fig.height=6}
+p <- ggplot(df,
+            aes(
+              x = Statement,
+              y = MAE,
+              color = Algorithm,
+              shape = Algorithm,
+              fill = Algorithm,
+              group = Algorithm
+            )) +
+  geom_point(size = 3) +
+  
+  geom_line(aes(color = Algorithm), size = 1, alpha = 0.7) +
+  
+  scale_shape_manual(values = c(21, 24, 22, 23), name = "Algorithm",
+                     labels = c("Decision Tree", "FCNN", "KNN", "Random Forest") ) +
+  
+  scale_x_discrete(labels = c("BS", "CF", "IS", "MS"),
+                           name = "Statement") +
+  
+  scale_y_continuous(name = "Mean Absolute Error",
+                     breaks = c(15.5, 15.75, 16, 16.25, 16.5, 16.75),
+                     ) +
+  
+  scale_colour_manual(values = c("#999999", "#0072B2", "#E69F00", "#000000"), name = "Algorithm",
+                      labels = c("Decision Tree", "FCNN", "KNN", "Random Forest")) +
+  
+  scale_fill_manual(values = c("#999999", "#0072B2", "#E69F00", "#000000"), name = "Algorithm",
+                      labels = c("Decision Tree", "FCNN", "KNN", "Random Forest")) +
+  
+  
+
+  
+  
+  theme_classic() +
+  
+  ggtitle("Price Change Magnitude Prediction Results")+
+  
+  theme(axis.text.x = element_text(size = 10), 
+      panel.grid.major.y = element_line(size = 0.4,linetype = 'dotted', colour = "lightgrey"),
+      plot.title = element_text(hjust = +0.5, vjust = +3),
+      axis.title.y = element_text(size = 12, vjust = +4, face = "bold"),
+      axis.title.x = element_text(vjust = -2, face = "bold"))
+
+
+p
+
+
+```

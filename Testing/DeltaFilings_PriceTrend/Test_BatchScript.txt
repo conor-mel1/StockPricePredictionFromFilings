@@ -1,0 +1,10 @@
+cd BalanceSheet
+cd HyperparameterTuning
+cd FCNN
+cd ThreeHiddenLayers
+echo "Balance Sheet - Running 3HL_ParamNum_AsNodes"
+runipy -o 3HL_ParamNum_AsNodes.ipynb
+echo "Finished Balance Sheet - 3HL_ParamNum_AsNodes.ipynb"
+echo"Starting 3HL_TriangularStructure"
+runipy -o 3HL_TriangularStructure.ipynb
+echo "Finished Balance Sheet - 3HL_TriangularStructure

@@ -1,0 +1,1870 @@
+Source,Target
+OMC,Communication Services
+OMC,Advertising
+OMC,Service
+IPG,Communication Services
+IPG,Advertising
+IPG,Service
+HHS,Communication Services
+HHS,Advertising
+HHS,Service
+CTL,Communication Services
+CTL,Alternative Carriers
+CTL,Service
+LBTYA,Communication Services
+LBTYA,Alternative Carriers
+LBTYA,Service
+CCOI,Communication Services
+CCOI,Alternative Carriers
+CCOI,Service
+DISCA,Communication Services
+DISCA,Broadcasting
+DISCA,Entertainment
+VIAC,Communication Services
+VIAC,Broadcasting
+VIAC,Entertainment
+GTN,Communication Services
+GTN,Broadcasting
+GTN,Entertainment
+NXST,Communication Services
+NXST,Broadcasting
+NXST,Entertainment
+TGNA,Communication Services
+TGNA,Broadcasting
+TGNA,Entertainment
+SSP,Communication Services
+SSP,Broadcasting
+SSP,Entertainment
+CMCSA,Communication Services
+CMCSA,Cable and Satellite
+CMCSA,Entertainment
+DISH,Communication Services
+DISH,Cable and Satellite
+DISH,Entertainment
+SJR,Communication Services
+SJR,Cable and Satellite
+SJR,Entertainment
+SIRI,Communication Services
+SIRI,Cable and Satellite
+SIRI,Entertainment
+T,Communication Services
+T,Integrated Telecommunication Services
+T,Service
+VZ,Communication Services
+VZ,Integrated Telecommunication Services
+VZ,Service
+KT,Communication Services
+KT,Integrated Telecommunication Services
+KT,Service
+TELNY,Communication Services
+TELNY,Integrated Telecommunication Services
+TELNY,Service
+ATNI,Communication Services
+ATNI,Integrated Telecommunication Services
+ATNI,Service
+TU,Communication Services
+TU,Integrated Telecommunication Services
+TU,Service
+ORAN,Communication Services
+ORAN,Integrated Telecommunication Services
+ORAN,Service
+ATVI,Communication Services
+ATVI,Interactive Home Entertainment
+ATVI,Entertainment
+EA,Communication Services
+EA,Interactive Home Entertainment
+EA,Entertainment
+TTWO,Communication Services
+TTWO,Interactive Home Entertainment
+TTWO,Entertainment
+GLUU,Communication Services
+GLUU,Interactive Home Entertainment
+GLUU,Entertainment
+NTES,Communication Services
+NTES,Interactive Home Entertainment
+NTES,Entertainment
+SINA,Communication Services
+SINA,Interactive Media and Services
+SINA,Entertainment
+BIDU,Communication Services
+BIDU,Interactive Media and Services
+BIDU,Entertainment
+TCEHY,Communication Services
+TCEHY,Interactive Media and Services
+TCEHY,Entertainment
+SOHU,Communication Services
+SOHU,Interactive Media and Services
+SOHU,Entertainment
+DIS,Communication Services
+DIS,Movies and Entertainment
+DIS,Entertainment
+LYV,Communication Services
+LYV,Movies and Entertainment
+LYV,Entertainment
+NFLX,Communication Services
+NFLX,Movies and Entertainment
+NFLX,Entertainment
+CNK,Communication Services
+CNK,Movies and Entertainment
+CNK,Entertainment
+WWE,Communication Services
+WWE,Movies and Entertainment
+WWE,Entertainment
+NYT,Communication Services
+NYT,Publishing
+NYT,Entertainment
+MBT,Communication Services
+MBT,Wireless Telecommunication Services
+MBT,Service
+AMX,Communication Services
+AMX,Wireless Telecommunication Services
+AMX,Service
+TDS,Communication Services
+TDS,Wireless Telecommunication Services
+TDS,Service
+USM,Communication Services
+USM,Wireless Telecommunication Services
+USM,Service
+VOD,Communication Services
+VOD,Wireless Telecommunication Services
+VOD,Service
+SKM,Communication Services
+SKM,Wireless Telecommunication Services
+SKM,Service
+SFTBF,Communication Services
+SFTBF,Wireless Telecommunication Services
+SFTBF,Service
+GPS,Consumer Discretionary
+GPS,Apparel Retail
+GPS,Material Goods
+LB,Consumer Discretionary
+LB,Apparel Retail
+LB,Material Goods
+ROST,Consumer Discretionary
+ROST,Apparel Retail
+ROST,Material Goods
+TJX,Consumer Discretionary
+TJX,Apparel Retail
+TJX,Material Goods
+HBI,Consumer Discretionary
+HBI,"Apparel, Accessories and Luxury Goods"
+HBI,Material Goods
+PVH,Consumer Discretionary
+PVH,"Apparel, Accessories and Luxury Goods"
+PVH,Material Goods
+RL,Consumer Discretionary
+RL,"Apparel, Accessories and Luxury Goods"
+RL,Material Goods
+TPR,Consumer Discretionary
+TPR,"Apparel, Accessories and Luxury Goods"
+TPR,Material Goods
+UAA,Consumer Discretionary
+UAA,"Apparel, Accessories and Luxury Goods"
+UAA,Material Goods
+VFC,Consumer Discretionary
+VFC,"Apparel, Accessories and Luxury Goods"
+VFC,Material Goods
+BWA,Consumer Discretionary
+BWA,Auto Parts and Equipment
+BWA,Transport
+F,Consumer Discretionary
+F,Automobile Manufacturers
+F,Transport
+AAP,Consumer Discretionary
+AAP,Automotive Retail
+AAP,Transport
+KMX,Consumer Discretionary
+KMX,Automotive Retail
+KMX,Transport
+ORLY,Consumer Discretionary
+ORLY,Automotive Retail
+ORLY,Transport
+AZO,Consumer Discretionary
+AZO,Automotive Retail
+AZO,Transport
+MGM,Consumer Discretionary
+MGM,Casinos and Gaming
+MGM,Entertainment
+WYNN,Consumer Discretionary
+WYNN,Casinos and Gaming
+WYNN,Entertainment
+GRMN,Consumer Discretionary
+GRMN,Consumer Electronics
+GRMN,Material Goods
+KSS,Consumer Discretionary
+KSS,Department Stores
+KSS,Material Goods
+JWN,Consumer Discretionary
+JWN,Department Stores
+JWN,Material Goods
+GPC,Consumer Discretionary
+GPC,Distributors
+GPC,Material Goods
+LKQ,Consumer Discretionary
+LKQ,Distributors
+LKQ,Material Goods
+NKE,Consumer Discretionary
+NKE,Footwear
+NKE,Material Goods
+DLTR,Consumer Discretionary
+DLTR,General Merchandise Stores
+DLTR,Material Goods
+TGT,Consumer Discretionary
+TGT,General Merchandise Stores
+TGT,Material Goods
+LEG,Consumer Discretionary
+LEG,Home Furnishings
+LEG,Material Goods
+LEG,Home
+MHK,Consumer Discretionary
+MHK,Home Furnishings
+MHK,Material Goods
+MHK,Home
+HD,Consumer Discretionary
+HD,Home Improvement Retail
+HD,Material Goods
+HD,Home
+LOW,Consumer Discretionary
+LOW,Home Improvement Retail
+LOW,Material Goods
+LOW,Home
+DHI,Consumer Discretionary
+DHI,Homebuilding
+DHI,Home
+LEN,Consumer Discretionary
+LEN,Homebuilding
+LEN,Home
+NVR,Consumer Discretionary
+NVR,Homebuilding
+NVR,Home
+PHM,Consumer Discretionary
+PHM,Homebuilding
+PHM,Home
+CCL,Consumer Discretionary
+CCL,"Hotels, Resorts and Cruise Lines"
+CCL,Entertainment
+MAR,Consumer Discretionary
+MAR,"Hotels, Resorts and Cruise Lines"
+MAR,Entertainment
+RCL,Consumer Discretionary
+RCL,"Hotels, Resorts and Cruise Lines"
+RCL,Entertainment
+WHR,Consumer Discretionary
+WHR,Household Appliances
+WHR,Material Goods
+WHR,Home
+NWL,Consumer Discretionary
+NWL,Housewares and Specialties
+NWL,Material Goods
+NWL,Home
+BKNG,Consumer Discretionary
+BKNG,Internet and Direct Marketing Retail
+BKNG,Service
+BKNG,Entertainment
+EBAY,Consumer Discretionary
+EBAY,Internet and Direct Marketing Retail
+EBAY,Material Goods
+EXPE,Consumer Discretionary
+EXPE,Internet and Direct Marketing Retail
+EXPE,Service
+EXPE,Entertainment
+AMZN,Consumer Discretionary
+AMZN,Internet and Direct Marketing Retail
+AMZN,Material Goods
+HAS,Consumer Discretionary
+HAS,Leisure Products
+HAS,Entertainment
+HOG,Consumer Discretionary
+HOG,Motorcycle Manufacturers
+HOG,Transport
+CMG,Consumer Discretionary
+CMG,Restaurants
+CMG,Food
+DRI,Consumer Discretionary
+DRI,Restaurants
+DRI,Food
+DPZ,Consumer Discretionary
+DPZ,Restaurants
+DPZ,Food
+MCD,Consumer Discretionary
+MCD,Restaurants
+MCD,Food
+SBUX,Consumer Discretionary
+SBUX,Restaurants
+SBUX,Food
+YUM,Consumer Discretionary
+YUM,Restaurants
+YUM,Food
+HRB,Consumer Discretionary
+HRB,Specialized Consumer Services
+HRB,Service
+TIF,Consumer Discretionary
+TIF,Specialty Stores
+TIF,Material Goods
+TSCO,Consumer Discretionary
+TSCO,Specialty Stores
+TSCO,Material Goods
+ULTA,Consumer Discretionary
+ULTA,Specialty Stores
+ULTA,Material Goods
+ADM,Consumer Staples
+ADM,Agricultural Products
+ADM,Food
+DAR,Consumer Staples
+DAR,Agricultural Products
+DAR,Food
+BG,Consumer Staples
+BG,Agricultural Products
+BG,Food
+VFF,Consumer Staples
+VFF,Agricultural Products
+VFF,Food
+FDP,Consumer Staples
+FDP,Agricultural Products
+FDP,Food
+TAP,Consumer Staples
+TAP,Brewers
+TAP,Alcohol
+SAM,Consumer Staples
+SAM,Brewers
+SAM,Alcohol
+BF.B,Consumer Staples
+BF.B,Distillers and Vintners
+BF.B,Alcohol
+STZ,Consumer Staples
+STZ,Distillers and Vintners
+STZ,Alcohol
+DEO,Consumer Staples
+DEO,Distillers and Vintners
+DEO,Alcohol
+WBA,Consumer Staples
+WBA,Drug Retail
+WBA,Medicine
+RAD,Consumer Staples
+RAD,Drug Retail
+RAD,Medicine
+SYY,Consumer Staples
+SYY,Food Distributors
+SYY,Food
+UNFI,Consumer Staples
+UNFI,Food Distributors
+UNFI,Food
+KR,Consumer Staples
+KR,Food Retail
+KR,Food
+MRWSY,Consumer Staples
+MRWSY,Food Retail
+MRWSY,Food
+JSAIY,Consumer Staples
+JSAIY,Food Retail
+JSAIY,Food
+CASY,Consumer Staples
+CASY,Food Retail
+CASY,Food
+CHD,Consumer Staples
+CHD,Household Products
+CHD,Material Goods
+CHD,Home
+CL,Consumer Staples
+CL,Household Products
+CL,Material Goods
+CL,Home
+KMB,Consumer Staples
+KMB,Household Products
+KMB,Material Goods
+KMB,Home
+PG,Consumer Staples
+PG,Household Products
+PG,Material Goods
+PG,Home
+CLX,Consumer Staples
+CLX,Household Products
+CLX,Material Goods
+CLX,Home
+CENT,Consumer Staples
+CENT,Household Products
+CENT,Material Goods
+CENT,Home
+COST,Consumer Staples
+COST,Hypermarkets and Super Centers
+COST,Food
+WMT,Consumer Staples
+WMT,Hypermarkets and Super Centers
+WMT,Food
+PSMT,Consumer Staples
+PSMT,Hypermarkets and Super Centers
+PSMT,Food
+CPB,Consumer Staples
+CPB,Packaged Foods and Meats
+CPB,Food
+CAG,Consumer Staples
+CAG,Packaged Foods and Meats
+CAG,Food
+GIS,Consumer Staples
+GIS,Packaged Foods and Meats
+GIS,Food
+HRL,Consumer Staples
+HRL,Packaged Foods and Meats
+HRL,Food
+SJM,Consumer Staples
+SJM,Packaged Foods and Meats
+SJM,Food
+K,Consumer Staples
+K,Packaged Foods and Meats
+K,Food
+MKC,Consumer Staples
+MKC,Packaged Foods and Meats
+MKC,Food
+MDLZ,Consumer Staples
+MDLZ,Packaged Foods and Meats
+MDLZ,Food
+HSY,Consumer Staples
+HSY,Packaged Foods and Meats
+HSY,Food
+TSN,Consumer Staples
+TSN,Packaged Foods and Meats
+TSN,Food
+THS,Consumer Staples
+THS,Packaged Foods and Meats
+THS,Food
+BGS,Consumer Staples
+BGS,Packaged Foods and Meats
+BGS,Food
+FLO,Consumer Staples
+FLO,Packaged Foods and Meats
+FLO,Food
+HAIN,Consumer Staples
+HAIN,Packaged Foods and Meats
+HAIN,Food
+STKL,Consumer Staples
+STKL,Packaged Foods and Meats
+STKL,Food
+EL,Consumer Staples
+EL,Personal Products
+EL,Material Goods
+VERU,Consumer Staples
+VERU,Personal Products
+VERU,Material Goods
+USNA,Consumer Staples
+USNA,Personal Products
+USNA,Material Goods
+HLF,Consumer Staples
+HLF,Personal Products
+HLF,Material Goods
+MED,Consumer Staples
+MED,Personal Products
+MED,Material Goods
+KO,Consumer Staples
+KO,Soft Drinks
+KO,Food
+MNST,Consumer Staples
+MNST,Soft Drinks
+MNST,Food
+PEP,Consumer Staples
+PEP,Soft Drinks
+PEP,Food
+REED,Consumer Staples
+REED,Soft Drinks
+REED,Food
+FIZZ,Consumer Staples
+FIZZ,Soft Drinks
+FIZZ,Food
+MO,Consumer Staples
+MO,Tobacco
+MO,Recreational Drugs
+PM,Consumer Staples
+PM,Tobacco
+PM,Recreational Drugs
+BTI,Consumer Staples
+BTI,Tobacco
+BTI,Recreational Drugs
+CVX,Energy
+CVX,Integrated Oil and Gas
+CVX,Transport
+XOM,Energy
+XOM,Integrated Oil and Gas
+XOM,Transport
+OXY,Energy
+OXY,Integrated Oil and Gas
+OXY,Transport
+TOT,Energy
+TOT,Integrated Oil and Gas
+TOT,Transport
+BP,Energy
+BP,Integrated Oil and Gas
+BP,Transport
+HAL,Energy
+HAL,Oil and Gas Equipment and Services
+HAL,Transport
+NOV,Energy
+NOV,Oil and Gas Equipment and Services
+NOV,Transport
+SLB,Energy
+SLB,Oil and Gas Equipment and Services
+SLB,Transport
+OII,Energy
+OII,Oil and Gas Equipment and Services
+OII,Transport
+IO,Energy
+IO,Oil and Gas Equipment and Services
+IO,Transport
+NGS,Energy
+NGS,Oil and Gas Equipment and Services
+NGS,Transport
+COG,Energy
+COG,Oil and Gas Exploration and Production
+COG,Transport
+CXO,Energy
+CXO,Oil and Gas Exploration and Production
+CXO,Transport
+COP,Energy
+COP,Oil and Gas Exploration and Production
+COP,Transport
+DVN,Energy
+DVN,Oil and Gas Exploration and Production
+DVN,Transport
+EOG,Energy
+EOG,Oil and Gas Exploration and Production
+EOG,Transport
+HES,Energy
+HES,Oil and Gas Exploration and Production
+HES,Transport
+MRO,Energy
+MRO,Oil and Gas Exploration and Production
+MRO,Transport
+NBL,Energy
+NBL,Oil and Gas Exploration and Production
+NBL,Transport
+PXD,Energy
+PXD,Oil and Gas Exploration and Production
+PXD,Transport
+XEC,Energy
+XEC,Oil and Gas Exploration and Production
+XEC,Transport
+ERF,Energy
+ERF,Oil and Gas Exploration and Production
+ERF,Transport
+SBOW,Energy
+SBOW,Oil and Gas Exploration and Production
+SBOW,Transport
+CNX,Energy
+CNX,Oil and Gas Exploration and Production
+CNX,Transport
+CPE,Energy
+CPE,Oil and Gas Exploration and Production
+CPE,Transport
+EQT,Energy
+EQT,Oil and Gas Exploration and Production
+EQT,Transport
+HFC,Energy
+HFC,Oil and Gas Refining and Marketing
+HFC,Transport
+VLO,Energy
+VLO,Oil and Gas Refining and Marketing
+VLO,Transport
+INT,Energy
+INT,Oil and Gas Refining and Marketing
+INT,Transport
+CLNE,Energy
+CLNE,Oil and Gas Refining and Marketing
+CLNE,Transport
+PEIX,Energy
+PEIX,Oil and Gas Refining and Marketing
+PEIX,Transport
+GPRE,Energy
+GPRE,Oil and Gas Refining and Marketing
+GPRE,Transport
+OKE,Energy
+OKE,Oil and Gas Storage and Transportation
+OKE,Transport
+WMB,Energy
+WMB,Oil and Gas Storage and Transportation
+WMB,Transport
+NAT,Energy
+NAT,Oil and Gas Storage and Transportation
+NAT,Transport
+GLP,Energy
+GLP,Oil and Gas Storage and Transportation
+GLP,Transport
+TNK,Energy
+TNK,Oil and Gas Storage and Transportation
+TNK,Transport
+NNA,Energy
+NNA,Oil and Gas Storage and Transportation
+NNA,Transport
+EPD,Energy
+EPD,Oil and Gas Storage and Transportation
+EPD,Transport
+GASS,Energy
+GASS,Oil and Gas Storage and Transportation
+GASS,Transport
+AMP,Financials
+AMP,Asset Management and Custody Banks
+AMP,Service
+BLK,Financials
+BLK,Asset Management and Custody Banks
+BLK,Service
+BEN,Financials
+BEN,Asset Management and Custody Banks
+BEN,Service
+IVZ,Financials
+IVZ,Asset Management and Custody Banks
+IVZ,Service
+TROW,Financials
+TROW,Asset Management and Custody Banks
+TROW,Service
+WDR,Financials
+WDR,Asset Management and Custody Banks
+WDR,Service
+SEIC,Financials
+SEIC,Asset Management and Custody Banks
+SEIC,Service
+NEWT,Financials
+NEWT,Asset Management and Custody Banks
+NEWT,Service
+CME,Financials
+CME,Financial Exchanges and Data
+CME,Service
+ICE,Financials
+ICE,Financial Exchanges and Data
+ICE,Service
+MKTX,Financials
+MKTX,Financial Exchanges and Data
+MKTX,Service
+MSCI,Financials
+MSCI,Financial Exchanges and Data
+MSCI,Service
+MCO,Financials
+MCO,Financial Exchanges and Data
+MCO,Service
+NDAQ,Financials
+NDAQ,Financial Exchanges and Data
+NDAQ,Service
+SPGI,Financials
+SPGI,Financial Exchanges and Data
+SPGI,Service
+FDS,Financials
+FDS,Financial Exchanges and Data
+FDS,Service
+AJG,Financials
+AJG,Insurance Brokers
+AJG,Service
+AJG,Insurance
+MMC,Financials
+MMC,Insurance Brokers
+MMC,Service
+MMC,Insurance
+WLTW,Financials
+WLTW,Insurance Brokers
+WLTW,Service
+WLTW,Insurance
+AFL,Financials
+AFL,Life and Health Insurance
+AFL,Service
+AFL,Insurance
+GL,Financials
+GL,Life and Health Insurance
+GL,Service
+GL,Insurance
+LNC,Financials
+LNC,Life and Health Insurance
+LNC,Service
+LNC,Insurance
+MET,Financials
+MET,Life and Health Insurance
+MET,Service
+MET,Insurance
+PFG,Financials
+PFG,Life and Health Insurance
+PFG,Service
+PFG,Insurance
+PRU,Financials
+PRU,Life and Health Insurance
+PRU,Service
+PRU,Insurance
+UNM,Financials
+UNM,Life and Health Insurance
+UNM,Service
+UNM,Insurance
+SLF,Financials
+SLF,Life and Health Insurance
+SLF,Service
+SLF,Insurance
+BRK.B,Financials
+BRK.B,Multi-Sector Holdings
+BRK.B,Service
+AIG,Financials
+AIG,Multi-line Insurance
+AIG,Service
+AIG,Insurance
+AIZ,Financials
+AIZ,Multi-line Insurance
+AIZ,Service
+AIZ,Insurance
+HIG,Financials
+HIG,Multi-line Insurance
+HIG,Service
+HIG,Insurance
+CB,Financials
+CB,Property and Casualty Insurance
+CB,Service
+CB,Insurance
+CINF,Financials
+CINF,Property and Casualty Insurance
+CINF,Service
+CINF,Insurance
+ALL,Financials
+ALL,Property and Casualty Insurance
+ALL,Service
+ALL,Insurance
+PGR,Financials
+PGR,Property and Casualty Insurance
+PGR,Service
+PGR,Insurance
+TRV,Financials
+TRV,Property and Casualty Insurance
+TRV,Service
+TRV,Insurance
+WRB,Financials
+WRB,Property and Casualty Insurance
+WRB,Service
+WRB,Insurance
+DGICA,Financials
+DGICA,Property and Casualty Insurance
+DGICA,Service
+DGICA,Insurance
+EIG,Financials
+EIG,Property and Casualty Insurance
+EIG,Service
+EIG,Insurance
+L,Financials
+L,Property and Casualty Insurance
+L,Service
+L,Insurance
+FNF,Financials
+FNF,Property and Casualty Insurance
+FNF,Service
+FNF,Insurance
+STC,Financials
+STC,Property and Casualty Insurance
+STC,Service
+STC,Insurance
+RE,Financials
+RE,Reinsurance
+RE,Service
+RE,Insurance
+ALXN,Healthcare
+ALXN,Biotechnology
+ALXN,Medicine
+AMGN,Healthcare
+AMGN,Biotechnology
+AMGN,Medicine
+BIIB,Healthcare
+BIIB,Biotechnology
+BIIB,Medicine
+GILD,Healthcare
+GILD,Biotechnology
+GILD,Medicine
+INCY,Healthcare
+INCY,Biotechnology
+INCY,Medicine
+REGN,Healthcare
+REGN,Biotechnology
+REGN,Medicine
+VRTX,Healthcare
+VRTX,Biotechnology
+VRTX,Medicine
+ABC,Healthcare
+ABC,Health Care Distributors
+ABC,Medicine
+CAH,Healthcare
+CAH,Health Care Distributors
+CAH,Medicine
+HSIC,Healthcare
+HSIC,Health Care Distributors
+HSIC,Medicine
+MCK,Healthcare
+MCK,Health Care Distributors
+MCK,Medicine
+ABT,Healthcare
+ABT,Health Care Equipment
+ABT,Tools/Equipment
+ABMD,Healthcare
+ABMD,Health Care Equipment
+ABMD,Tools/Equipment
+BAX,Healthcare
+BAX,Health Care Equipment
+BAX,Tools/Equipment
+BDX,Healthcare
+BDX,Health Care Equipment
+BDX,Tools/Equipment
+BSX,Healthcare
+BSX,Health Care Equipment
+BSX,Tools/Equipment
+DHR,Healthcare
+DHR,Health Care Equipment
+DHR,Tools/Equipment
+DXCM,Healthcare
+DXCM,Health Care Equipment
+DXCM,Tools/Equipment
+EW,Healthcare
+EW,Health Care Equipment
+EW,Tools/Equipment
+HOLX,Healthcare
+HOLX,Health Care Equipment
+HOLX,Tools/Equipment
+ISRG,Healthcare
+ISRG,Health Care Equipment
+ISRG,Tools/Equipment
+RMD,Healthcare
+RMD,Health Care Equipment
+RMD,Tools/Equipment
+STE,Healthcare
+STE,Health Care Equipment
+STE,Tools/Equipment
+SYK,Healthcare
+SYK,Health Care Equipment
+SYK,Tools/Equipment
+TFX,Healthcare
+TFX,Health Care Equipment
+TFX,Tools/Equipment
+VAR,Healthcare
+VAR,Health Care Equipment
+VAR,Tools/Equipment
+ZBH,Healthcare
+ZBH,Health Care Equipment
+ZBH,Tools/Equipment
+IDXX,Healthcare
+IDXX,Health Care Equipment
+IDXX,Tools/Equipment
+UHS,Healthcare
+UHS,Health Care Facilities
+UHS,Service
+CVS,Healthcare
+CVS,Health Care Services
+CVS,Service
+DVA,Healthcare
+DVA,Health Care Services
+DVA,Service
+LH,Healthcare
+LH,Health Care Services
+LH,Service
+DGX,Healthcare
+DGX,Health Care Services
+DGX,Service
+CI,Healthcare
+CI,Health Care Services
+CI,Service
+ALGN,Healthcare
+ALGN,Health Care Supplies
+ALGN,Tools/Equipment
+XRAY,Healthcare
+XRAY,Health Care Supplies
+XRAY,Tools/Equipment
+COO,Healthcare
+COO,Health Care Supplies
+COO,Tools/Equipment
+WST,Healthcare
+WST,Health Care Supplies
+WST,Tools/Equipment
+CERN,Healthcare
+CERN,Health Care Technology
+CERN,Tools/Equipment
+A,Healthcare
+A,Life Sciences Tools and Services
+A,Service
+ILMN,Healthcare
+ILMN,Life Sciences Tools and Services
+ILMN,Service
+MTD,Healthcare
+MTD,Life Sciences Tools and Services
+MTD,Service
+PKI,Healthcare
+PKI,Life Sciences Tools and Services
+PKI,Service
+TMO,Healthcare
+TMO,Life Sciences Tools and Services
+TMO,Service
+WAT,Healthcare
+WAT,Life Sciences Tools and Services
+WAT,Service
+ANTM,Healthcare
+ANTM,Managed Health Care
+ANTM,Service
+CNC,Healthcare
+CNC,Managed Health Care
+CNC,Service
+HUM,Healthcare
+HUM,Managed Health Care
+HUM,Service
+UNH,Healthcare
+UNH,Managed Health Care
+UNH,Service
+BMY,Healthcare
+BMY,Pharmaceuticals
+BMY,Medicine
+LLY,Healthcare
+LLY,Pharmaceuticals
+LLY,Medicine
+JNJ,Healthcare
+JNJ,Pharmaceuticals
+JNJ,Medicine
+MRK,Healthcare
+MRK,Pharmaceuticals
+MRK,Medicine
+PRGO,Healthcare
+PRGO,Pharmaceuticals
+PRGO,Medicine
+PFE,Healthcare
+PFE,Pharmaceuticals
+PFE,Medicine
+ADBE,IT
+ADBE,Application Software
+ADBE,Tools/Equipment
+ANSS,IT
+ANSS,Application Software
+ANSS,Tools/Equipment
+ADSK,IT
+ADSK,Application Software
+ADSK,Tools/Equipment
+CDNS,IT
+CDNS,Application Software
+CDNS,Tools/Equipment
+CTXS,IT
+CTXS,Application Software
+CTXS,Tools/Equipment
+INTU,IT
+INTU,Application Software
+INTU,Tools/Equipment
+CRM,IT
+CRM,Application Software
+CRM,Tools/Equipment
+SNPS,IT
+SNPS,Application Software
+SNPS,Tools/Equipment
+CSCO,IT
+CSCO,Communications Equipment
+CSCO,Tools/Equipment
+FFIV,IT
+FFIV,Communications Equipment
+FFIV,Tools/Equipment
+JNPR,IT
+JNPR,Communications Equipment
+JNPR,Tools/Equipment
+MSI,IT
+MSI,Communications Equipment
+MSI,Tools/Equipment
+ADS,IT
+ADS,Data Processing and Outsourced Services
+ADS,Service
+ADP,IT
+ADP,Data Processing and Outsourced Services
+ADP,Service
+BR,IT
+BR,Data Processing and Outsourced Services
+BR,Service
+FIS,IT
+FIS,Data Processing and Outsourced Services
+FIS,Service
+FISV,IT
+FISV,Data Processing and Outsourced Services
+FISV,Service
+GPN,IT
+GPN,Data Processing and Outsourced Services
+GPN,Service
+JKHY,IT
+JKHY,Data Processing and Outsourced Services
+JKHY,Service
+PAYX,IT
+PAYX,Data Processing and Outsourced Services
+PAYX,Service
+V,IT
+V,Data Processing and Outsourced Services
+V,Service
+WU,IT
+WU,Data Processing and Outsourced Services
+WU,Service
+MA,IT
+MA,Data Processing and Outsourced Services
+MA,Service
+APH,IT
+APH,Electronic Components
+APH,Tools/Equipment
+GLW,IT
+GLW,Electronic Components
+GLW,Tools/Equipment
+FLIR,IT
+FLIR,Electronic Equipment and Instruments
+FLIR,Tools/Equipment
+IPGP,IT
+IPGP,Electronic Manufacturing Services
+IPGP,Service
+TEL,IT
+TEL,Electronic Manufacturing Services
+TEL,Service
+CTSH,IT
+CTSH,IT Consulting and Other Services
+CTSH,Service
+IBM,IT
+IBM,IT Consulting and Other Services
+IBM,Service
+LDOS,IT
+LDOS,IT Consulting and Other Services
+LDOS,Service
+ACN,IT
+ACN,IT Consulting and Other Services
+ACN,Service
+IT,IT
+IT,IT Consulting and Other Services
+IT,Service
+GOOGL,IT
+GOOGL,Interactive Media and Services
+GOOGL,Service
+AKAM,IT
+AKAM,Internet Services and Infrastructure
+AKAM,Service
+VRSN,IT
+VRSN,Internet Services and Infrastructure
+VRSN,Service
+AMAT,IT
+AMAT,Semiconductor Equipment
+AMAT,Tools/Equipment
+KLAC,IT
+KLAC,Semiconductor Equipment
+KLAC,Tools/Equipment
+LRCX,IT
+LRCX,Semiconductor Equipment
+LRCX,Tools/Equipment
+AMD,IT
+AMD,Semiconductors
+AMD,Tools/Equipment
+ADI,IT
+ADI,Semiconductors
+ADI,Tools/Equipment
+AVGO,IT
+AVGO,Semiconductors
+AVGO,Tools/Equipment
+INTC,IT
+INTC,Semiconductors
+INTC,Tools/Equipment
+MCHP,IT
+MCHP,Semiconductors
+MCHP,Tools/Equipment
+MU,IT
+MU,Semiconductors
+MU,Tools/Equipment
+NVDA,IT
+NVDA,Semiconductors
+NVDA,Tools/Equipment
+QCOM,IT
+QCOM,Semiconductors
+QCOM,Tools/Equipment
+SWKS,IT
+SWKS,Semiconductors
+SWKS,Tools/Equipment
+TXN,IT
+TXN,Semiconductors
+TXN,Tools/Equipment
+XLNX,IT
+XLNX,Semiconductors
+XLNX,Tools/Equipment
+MSFT,IT
+MSFT,Systems Software
+MSFT,Tools/Equipment
+NLOK,IT
+NLOK,Systems Software
+NLOK,Tools/Equipment
+ORCL,IT
+ORCL,Systems Software
+ORCL,Tools/Equipment
+AAPL,IT
+AAPL,"Technology Hardware, Storage and Peripherals"
+AAPL,Entertainment
+HPQ,IT
+HPQ,"Technology Hardware, Storage and Peripherals"
+HPQ,Tools/Equipment
+NTAP,IT
+NTAP,"Technology Hardware, Storage and Peripherals"
+NTAP,Tools/Equipment
+STX,IT
+STX,"Technology Hardware, Storage and Peripherals"
+STX,Tools/Equipment
+WDC,IT
+WDC,"Technology Hardware, Storage and Peripherals"
+WDC,Tools/Equipment
+XRX,IT
+XRX,"Technology Hardware, Storage and Peripherals"
+XRX,Tools/Equipment
+GD,Industrials
+GD,Aerospace and Defense
+GD,Aviation
+GD,Transport
+LMT,Industrials
+LMT,Aerospace and Defense
+LMT,Aviation
+LMT,Transport
+NOC,Industrials
+NOC,Aerospace and Defense
+NOC,Aviation
+NOC,Transport
+RTX,Industrials
+RTX,Aerospace and Defense
+RTX,Aviation
+RTX,Transport
+TXT,Industrials
+TXT,Aerospace and Defense
+TXT,Aviation
+TXT,Transport
+TDG,Industrials
+TDG,Aerospace and Defense
+TDG,Aviation
+TDG,Transport
+BA,Industrials
+BA,Aerospace and Defense
+BA,Aviation
+BA,Transport
+DE,Industrials
+DE,Agricultural and Farm Machinery
+DE,Tools/Equipment
+DE,Food
+CHRW,Industrials
+CHRW,Air Freight and Logistics
+CHRW,Aviation
+CHRW,Transport
+EXPD,Industrials
+EXPD,Air Freight and Logistics
+EXPD,Aviation
+EXPD,Transport
+FDX,Industrials
+FDX,Air Freight and Logistics
+FDX,Aviation
+FDX,Transport
+UPS,Industrials
+UPS,Air Freight and Logistics
+UPS,Aviation
+UPS,Transport
+ALK,Industrials
+ALK,Airlines
+ALK,Aviation
+ALK,Transport
+ALK,Travel
+AAL,Industrials
+AAL,Airlines
+AAL,Aviation
+AAL,Transport
+AAL,Travel
+DAL,Industrials
+DAL,Airlines
+DAL,Aviation
+DAL,Transport
+DAL,Travel
+LUV,Industrials
+LUV,Airlines
+LUV,Aviation
+LUV,Transport
+LUV,Travel
+UAL,Industrials
+UAL,Airlines
+UAL,Aviation
+UAL,Transport
+UAL,Travel
+AOS,Industrials
+AOS,Building Products
+AOS,Home
+AOS,Tools/Equipment
+JCI,Industrials
+JCI,Building Products
+JCI,Home
+JCI,Tools/Equipment
+MAS,Industrials
+MAS,Building Products
+MAS,Home
+MAS,Tools/Equipment
+TT,Industrials
+TT,Building Products
+TT,Home
+TT,Tools/Equipment
+CAT,Industrials
+CAT,Construction Machinery and Heavy Trucks
+CAT,Tools/Equipment
+CAT,Transport
+CMI,Industrials
+CMI,Construction Machinery and Heavy Trucks
+CMI,Tools/Equipment
+CMI,Transport
+PCAR,Industrials
+PCAR,Construction Machinery and Heavy Trucks
+PCAR,Tools/Equipment
+PCAR,Transport
+WAB,Industrials
+WAB,Construction Machinery and Heavy Trucks
+WAB,Tools/Equipment
+WAB,Transport
+PWR,Industrials
+PWR,Construction and Engineering
+PWR,Service
+J,Industrials
+J,Construction and Engineering
+J,Service
+CTAS,Industrials
+CTAS,Diversified Support Services
+CTAS,Service
+CPRT,Industrials
+CPRT,Diversified Support Services
+CPRT,Service
+AME,Industrials
+AME,Electrical Components and Equipment
+AME,Tools/Equipment
+EMR,Industrials
+EMR,Electrical Components and Equipment
+EMR,Tools/Equipment
+ROK,Industrials
+ROK,Electrical Components and Equipment
+ROK,Tools/Equipment
+RSG,Industrials
+RSG,Environmental and Facilities Services
+RSG,Service
+ROL,Industrials
+ROL,Environmental and Facilities Services
+ROL,Service
+WM,Industrials
+WM,Environmental and Facilities Services
+WM,Service
+RHI,Industrials
+RHI,Human Resource and Employment Services
+RHI,Service
+MMM,Industrials
+MMM,Industrial Conglomerates
+MMM,Tools/Equipment
+GE,Industrials
+GE,Industrial Conglomerates
+GE,Tools/Equipment
+HON,Industrials
+HON,Industrial Conglomerates
+HON,Tools/Equipment
+ROP,Industrials
+ROP,Industrial Conglomerates
+ROP,Tools/Equipment
+DOV,Industrials
+DOV,Industrial Machinery
+DOV,Tools/Equipment
+FLS,Industrials
+FLS,Industrial Machinery
+FLS,Tools/Equipment
+IEX,Industrials
+IEX,Industrial Machinery
+IEX,Tools/Equipment
+ITW,Industrials
+ITW,Industrial Machinery
+ITW,Tools/Equipment
+PH,Industrials
+PH,Industrial Machinery
+PH,Tools/Equipment
+PNR,Industrials
+PNR,Industrial Machinery
+PNR,Tools/Equipment
+SNA,Industrials
+SNA,Industrial Machinery
+SNA,Tools/Equipment
+SWK,Industrials
+SWK,Industrial Machinery
+SWK,Tools/Equipment
+CSX,Industrials
+CSX,Railroads
+CSX,Transport
+CSX,Travel
+KSU,Industrials
+KSU,Railroads
+KSU,Transport
+KSU,Travel
+NSC,Industrials
+NSC,Railroads
+NSC,Transport
+NSC,Travel
+UNP,Industrials
+UNP,Railroads
+UNP,Transport
+UNP,Travel
+EFX,Industrials
+EFX,Research and Consulting Services
+EFX,Service
+FAST,Industrials
+FAST,Trading Companies and Distributors
+FAST,Tools/Equipment
+URI,Industrials
+URI,Trading Companies and Distributors
+URI,Tools/Equipment
+GWW,Industrials
+GWW,Trading Companies and Distributors
+GWW,Tools/Equipment
+JBHT,Industrials
+JBHT,Trucking
+JBHT,Transport
+ODFL,Industrials
+ODFL,Trucking
+ODFL,Transport
+HWKN,Materials
+HWKN,Commodity Chemicals
+HWKN,Material Goods
+MLM,Materials
+MLM,Construction Materials
+MLM,Home
+VMC,Materials
+VMC,Construction Materials
+VMC,Home
+FCX,Materials
+FCX,Copper
+FCX,Metal
+SCCO,Materials
+SCCO,Copper
+SCCO,Metal
+EMN,Materials
+EMN,Diversified Chemicals
+EMN,Material Goods
+BBL,Materials
+BBL,Diversified Metals and Mining
+BBL,Metal
+MTRN,Materials
+MTRN,Diversified Metals and Mining
+MTRN,Metal
+CF,Materials
+CF,Fertilizers and Agricultural Chemicals
+CF,Food
+FMC,Materials
+FMC,Fertilizers and Agricultural Chemicals
+FMC,Food
+SMG,Materials
+SMG,Fertilizers and Agricultural Chemicals
+SMG,Food
+LPX,Materials
+LPX,Forest Products
+LPX,Material Goods
+NEM,Materials
+NEM,Gold
+NEM,Precious Metals
+GSS,Materials
+GSS,Gold
+GSS,Precious Metals
+AGI,Materials
+AGI,Gold
+AGI,Precious Metals
+SSRM,Materials
+SSRM,Gold
+SSRM,Precious Metals
+AUY,Materials
+AUY,Gold
+AUY,Precious Metals
+IAG,Materials
+IAG,Gold
+IAG,Precious Metals
+CMCL,Materials
+CMCL,Gold
+CMCL,Precious Metals
+APD,Materials
+APD,Industrial Gases
+APD,Material Goods
+BLL,Materials
+BLL,Metal and Glass Containers
+BLL,Material Goods
+SLGN,Materials
+SLGN,Metal and Glass Containers
+SLGN,Material Goods
+CCK,Materials
+CCK,Metal and Glass Containers
+CCK,Material Goods
+AVY,Materials
+AVY,Paper Packaging
+AVY,Material Goods
+IP,Materials
+IP,Paper Packaging
+IP,Material Goods
+PKG,Materials
+PKG,Paper Packaging
+PKG,Material Goods
+SEE,Materials
+SEE,Paper Packaging
+SEE,Material Goods
+GPK,Materials
+GPK,Paper Packaging
+GPK,Material Goods
+FSM,Materials
+FSM,Silver
+FSM,Precious Metals
+PAAS,Materials
+PAAS,Silver
+PAAS,Precious Metals
+ALB,Materials
+ALB,Specialty Chemicals
+ALB,Material Goods
+ECL,Materials
+ECL,Specialty Chemicals
+ECL,Material Goods
+IFF,Materials
+IFF,Specialty Chemicals
+IFF,Material Goods
+PPG,Materials
+PPG,Specialty Chemicals
+PPG,Material Goods
+SHW,Materials
+SHW,Specialty Chemicals
+SHW,Material Goods
+SCL,Materials
+SCL,Specialty Chemicals
+SCL,Material Goods
+FSI,Materials
+FSI,Specialty Chemicals
+FSI,Material Goods
+ASH,Materials
+ASH,Specialty Chemicals
+ASH,Material Goods
+CE,Materials
+CE,Specialty Chemicals
+CE,Material Goods
+SXT,Materials
+SXT,Specialty Chemicals
+SXT,Material Goods
+RPM,Materials
+RPM,Specialty Chemicals
+RPM,Material Goods
+BCPC,Materials
+BCPC,Specialty Chemicals
+BCPC,Material Goods
+NUE,Materials
+NUE,Steel
+NUE,Metal
+VALE,Materials
+VALE,Steel
+VALE,Metal
+PKX,Materials
+PKX,Steel
+PKX,Metal
+CMC,Materials
+CMC,Steel
+CMC,Metal
+LNT,Utilities
+LNT,Electric Utilities
+LNT,Heat/Light
+LNT,Home
+AEP,Utilities
+AEP,Electric Utilities
+AEP,Heat/Light
+AEP,Home
+DUK,Utilities
+DUK,Electric Utilities
+DUK,Heat/Light
+DUK,Home
+EIX,Utilities
+EIX,Electric Utilities
+EIX,Heat/Light
+EIX,Home
+ETR,Utilities
+ETR,Electric Utilities
+ETR,Heat/Light
+ETR,Home
+ES,Utilities
+ES,Electric Utilities
+ES,Heat/Light
+ES,Home
+EXC,Utilities
+EXC,Electric Utilities
+EXC,Heat/Light
+EXC,Home
+FE,Utilities
+FE,Electric Utilities
+FE,Heat/Light
+FE,Home
+NEE,Utilities
+NEE,Electric Utilities
+NEE,Heat/Light
+NEE,Home
+NRG,Utilities
+NRG,Electric Utilities
+NRG,Heat/Light
+NRG,Home
+PNW,Utilities
+PNW,Electric Utilities
+PNW,Heat/Light
+PNW,Home
+PPL,Utilities
+PPL,Electric Utilities
+PPL,Heat/Light
+PPL,Home
+SO,Utilities
+SO,Electric Utilities
+SO,Heat/Light
+SO,Home
+XEL,Utilities
+XEL,Electric Utilities
+XEL,Heat/Light
+XEL,Home
+MGEE,Utilities
+MGEE,Electric Utilities
+MGEE,Heat/Light
+MGEE,Home
+POR,Utilities
+POR,Electric Utilities
+POR,Heat/Light
+POR,Home
+CLPHY,Utilities
+CLPHY,Electric Utilities
+CLPHY,Heat/Light
+CLPHY,Home
+ENIA,Utilities
+ENIA,Electric Utilities
+ENIA,Heat/Light
+ENIA,Home
+KEP,Utilities
+KEP,Electric Utilities
+KEP,Heat/Light
+KEP,Home
+OGE,Utilities
+OGE,Electric Utilities
+OGE,Heat/Light
+OGE,Home
+ELP,Utilities
+ELP,Electric Utilities
+ELP,Heat/Light
+ELP,Home
+ATO,Utilities
+ATO,Gas Utilities
+ATO,Heat/Light
+ATO,Home
+SJI,Utilities
+SJI,Gas Utilities
+SJI,Heat/Light
+SJI,Home
+AES,Utilities
+AES,Independent Power Producers and Energy Traders
+AES,Heat/Light
+AES,Home
+TAC,Utilities
+TAC,Independent Power Producers and Energy Traders
+TAC,Heat/Light
+TAC,Home
+AEE,Utilities
+AEE,Multi-Utilities
+AEE,Heat/Light
+AEE,Home
+CNP,Utilities
+CNP,Multi-Utilities
+CNP,Heat/Light
+CNP,Home
+CMS,Utilities
+CMS,Multi-Utilities
+CMS,Heat/Light
+CMS,Home
+ED,Utilities
+ED,Multi-Utilities
+ED,Heat/Light
+ED,Home
+DTE,Utilities
+DTE,Multi-Utilities
+DTE,Heat/Light
+DTE,Home
+NI,Utilities
+NI,Multi-Utilities
+NI,Heat/Light
+NI,Home
+PEG,Utilities
+PEG,Multi-Utilities
+PEG,Heat/Light
+PEG,Home
+SRE,Utilities
+SRE,Multi-Utilities
+SRE,Heat/Light
+SRE,Home
+WEC,Utilities
+WEC,Multi-Utilities
+WEC,Heat/Light
+WEC,Home
+NGG,Utilities
+NGG,Multi-Utilities
+NGG,Heat/Light
+NGG,Home
+EONGY,Utilities
+EONGY,Multi-Utilities
+EONGY,Heat/Light
+EONGY,Home
+UTL,Utilities
+UTL,Multi-Utilities
+UTL,Heat/Light
+UTL,Home
+BIP,Utilities
+BIP,Multi-Utilities
+BIP,Heat/Light
+BIP,Home
+CPYYY,Utilities
+CPYYY,Multi-Utilities
+CPYYY,Heat/Light
+CPYYY,Home
+AWK,Utilities
+AWK,Water Utilities
+AWK,Water
+AWK,Food
+ARTNA,Utilities
+ARTNA,Water Utilities
+ARTNA,Water
+ARTNA,Food
+MSEX,Utilities
+MSEX,Water Utilities
+MSEX,Water
+MSEX,Food
+YORW,Utilities
+YORW,Water Utilities
+YORW,Water
+YORW,Food
+CWCO,Utilities
+CWCO,Water Utilities
+CWCO,Water
+CWCO,Food
+Communication Services,Advertising
+Communication Services,Alternative Carriers
+Communication Services,Broadcasting
+Communication Services,Cable and Satellite
+Communication Services,Integrated Telecommunication Services
+Communication Services,Interactive Home Entertainment
+Communication Services,Interactive Media and Services
+Communication Services,Movies and Entertainment
+Communication Services,Publishing
+Communication Services,Wireless Telecommunication Services
+Consumer Discretionary,Apparel Retail
+Consumer Discretionary,"Apparel, Accessories and Luxury Goods"
+Consumer Discretionary,Auto Parts and Equipment
+Consumer Discretionary,Automobile Manufacturers
+Consumer Discretionary,Automotive Retail
+Consumer Discretionary,Casinos and Gaming
+Consumer Discretionary,Consumer Electronics
+Consumer Discretionary,Department Stores
+Consumer Discretionary,Distributors
+Consumer Discretionary,Footwear
+Consumer Discretionary,General Merchandise Stores
+Consumer Discretionary,Home Furnishings
+Consumer Discretionary,Home Improvement Retail
+Consumer Discretionary,Homebuilding
+Consumer Discretionary,"Hotels, Resorts and Cruise Lines"
+Consumer Discretionary,Household Appliances
+Consumer Discretionary,Housewares and Specialties
+Consumer Discretionary,Internet and Direct Marketing Retail
+Consumer Discretionary,Leisure Products
+Consumer Discretionary,Motorcycle Manufacturers
+Consumer Discretionary,Restaurants
+Consumer Discretionary,Specialized Consumer Services
+Consumer Discretionary,Specialty Stores
+Consumer Staples,Agricultural Products
+Consumer Staples,Brewers
+Consumer Staples,Distillers and Vintners
+Consumer Staples,Drug Retail
+Consumer Staples,Food Distributors
+Consumer Staples,Food Retail
+Consumer Staples,Household Products
+Consumer Staples,Hypermarkets and Super Centers
+Consumer Staples,Packaged Foods and Meats
+Consumer Staples,Personal Products
+Consumer Staples,Soft Drinks
+Consumer Staples,Tobacco
+Energy,Integrated Oil and Gas
+Energy,Oil and Gas Equipment and Services
+Energy,Oil and Gas Exploration and Production
+Energy,Oil and Gas Refining and Marketing
+Energy,Oil and Gas Storage and Transportation
+Financials,Asset Management and Custody Banks
+Financials,Financial Exchanges and Data
+Financials,Insurance Brokers
+Financials,Life and Health Insurance
+Financials,Multi-Sector Holdings
+Financials,Multi-line Insurance
+Financials,Property and Casualty Insurance
+Financials,Reinsurance
+Healthcare,Biotechnology
+Healthcare,Health Care Distributors
+Healthcare,Health Care Equipment
+Healthcare,Health Care Facilities
+Healthcare,Health Care Services
+Healthcare,Health Care Supplies
+Healthcare,Health Care Technology
+Healthcare,Life Sciences Tools and Services
+Healthcare,Managed Health Care
+Healthcare,Pharmaceuticals
+IT,Application Software
+IT,Communications Equipment
+IT,Data Processing and Outsourced Services
+IT,Electronic Components
+IT,Electronic Equipment and Instruments
+IT,Electronic Manufacturing Services
+IT,Interactive Media and Services
+IT,Internet Services and Infrastructure
+IT,Semiconductor Equipment
+IT,Semiconductors
+IT,Systems Software
+IT,"Technology Hardware, Storage and Peripherals"
+Industrials,Aerospace and Defense
+Industrials,Agricultural and Farm Machinery
+Industrials,Air Freight and Logistics
+Industrials,Airlines
+Industrials,Building Products
+Industrials,Construction Machinery and Heavy Trucks
+Industrials,Construction and Engineering
+Industrials,Diversified Support Services
+Industrials,Electrical Components and Equipment
+Industrials,Environmental and Facilities Services
+Industrials,Human Resource and Employment Services
+Industrials,Industrial Conglomerates
+Industrials,Industrial Machinery
+Industrials,Railroads
+Industrials,Research and Consulting Services
+Industrials,Trading Companies and Distributors
+Industrials,Trucking
+Materials,Commodity Chemicals
+Materials,Construction Materials
+Materials,Copper
+Materials,Diversified Chemicals
+Materials,Diversified Metals and Mining
+Materials,Fertilizers and Agricultural Chemicals
+Materials,Forest Products
+Materials,Gold
+Materials,Industrial Gases
+Materials,Metal and Glass Containers
+Materials,Paper Packaging
+Materials,Silver
+Materials,Specialty Chemicals
+Materials,Steel
+Utilities,Electric Utilities
+Utilities,Gas Utilities
+Utilities,Independent Power Producers and Energy Traders
+Utilities,Multi-Utilities
+Utilities,Water Utilities
+Advertising,Service
+Alternative Carriers,Service
+Broadcasting,Entertainment
+Cable and Satellite,Entertainment
+Integrated Telecommunication Services,Service
+Interactive Home Entertainment,Entertainment
+Interactive Media and Services,Entertainment
+Movies and Entertainment,Entertainment
+Publishing,Entertainment
+Wireless Telecommunication Services,Service
+Apparel Retail,Material Goods
+"Apparel, Accessories and Luxury Goods",Material Goods
+Auto Parts and Equipment,Transport
+Automobile Manufacturers,Transport
+Automotive Retail,Transport
+Casinos and Gaming,Entertainment
+Consumer Electronics,Material Goods
+Department Stores,Material Goods
+Distributors,Material Goods
+Footwear,Material Goods
+General Merchandise Stores,Material Goods
+Home Furnishings,Material Goods
+Home Improvement Retail,Material Goods
+Homebuilding,Home
+"Hotels, Resorts and Cruise Lines",Entertainment
+Household Appliances,Material Goods
+Housewares and Specialties,Material Goods
+Internet and Direct Marketing Retail,Service
+Internet and Direct Marketing Retail,Material Goods
+Leisure Products,Entertainment
+Motorcycle Manufacturers,Transport
+Restaurants,Food
+Specialized Consumer Services,Service
+Specialty Stores,Material Goods
+Agricultural Products,Food
+Brewers,Alcohol
+Distillers and Vintners,Alcohol
+Drug Retail,Medicine
+Food Distributors,Food
+Food Retail,Food
+Household Products,Material Goods
+Hypermarkets and Super Centers,Food
+Packaged Foods and Meats,Food
+Personal Products,Material Goods
+Soft Drinks,Food
+Tobacco,Recreational Drugs
+Integrated Oil and Gas,Transport
+Oil and Gas Equipment and Services,Transport
+Oil and Gas Exploration and Production,Transport
+Oil and Gas Refining and Marketing,Transport
+Oil and Gas Storage and Transportation,Transport
+Asset Management and Custody Banks,Service
+Financial Exchanges and Data,Service
+Insurance Brokers,Service
+Life and Health Insurance,Service
+Multi-Sector Holdings,Service
+Multi-line Insurance,Service
+Property and Casualty Insurance,Service
+Reinsurance,Service
+Biotechnology,Medicine
+Health Care Distributors,Medicine
+Health Care Equipment,Tools/Equipment
+Health Care Facilities,Service
+Health Care Services,Service
+Health Care Supplies,Tools/Equipment
+Health Care Technology,Tools/Equipment
+Life Sciences Tools and Services,Service
+Managed Health Care,Service
+Pharmaceuticals,Medicine
+Application Software,Tools/Equipment
+Communications Equipment,Tools/Equipment
+Data Processing and Outsourced Services,Service
+Electronic Components,Tools/Equipment
+Electronic Equipment and Instruments,Tools/Equipment
+Electronic Manufacturing Services,Service
+IT Consulting and Other Services,Service
+Interactive Media and Services,Service
+Internet Services and Infrastructure,Service
+Semiconductor Equipment,Tools/Equipment
+Semiconductors,Tools/Equipment
+Systems Software,Tools/Equipment
+"Technology Hardware, Storage and Peripherals",Entertainment
+"Technology Hardware, Storage and Peripherals",Tools/Equipment
+Aerospace and Defense,Aviation
+Agricultural and Farm Machinery,Tools/Equipment
+Air Freight and Logistics,Aviation
+Airlines,Aviation
+Building Products,Home
+Construction Machinery and Heavy Trucks,Tools/Equipment
+Construction and Engineering,Service
+Diversified Support Services,Service
+Electrical Components and Equipment,Tools/Equipment
+Environmental and Facilities Services,Service
+Human Resource and Employment Services,Service
+Industrial Conglomerates,Tools/Equipment
+Industrial Machinery,Tools/Equipment
+Railroads,Transport
+Research and Consulting Services,Service
+Trading Companies and Distributors,Tools/Equipment
+Trucking,Transport
+Commodity Chemicals,Material Goods
+Construction Materials,Home
+Copper,Metal
+Diversified Chemicals,Material Goods
+Diversified Metals and Mining,Metal
+Fertilizers and Agricultural Chemicals,Food
+Forest Products,Material Goods
+Gold,Precious Metals
+Industrial Gases,Material Goods
+Metal and Glass Containers,Material Goods
+Paper Packaging,Material Goods
+Silver,Precious Metals
+Specialty Chemicals,Material Goods
+Steel,Metal
+Electric Utilities,Heat/Light
+Gas Utilities,Heat/Light
+Independent Power Producers and Energy Traders,Heat/Light
+Multi-Utilities,Heat/Light
+Water Utilities,Water
+Transport,Travel
+Entertainment,Travel
+Recreational Drugs,Drugs
+Medicine,Drugs
+Alcohol,Recreational Drugs
+Household Products,Home
+Household Appliances,Home
+Housewares and Specialties,Home
+Property and Casualty Insurance,Home
+Insurance,Life and Health Insurance
+Insurance,Property and Casualty Insurance
+Insurance,Multi-line Insurance
+Insurance,Insurance Brokers
+Life and Health Insurance,Healthcare
+Precious Metals,Metal
+Heat/Light,Home
