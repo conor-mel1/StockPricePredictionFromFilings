@@ -7,14 +7,16 @@ This project investigates the use of Machine Learning, Deep Learning and Knowled
 
 This work does not aim to provide a profitable trading framework for readers, rather it seeks to assess the effect, if any, the state of and changes to the financial filings of individual companies have on each company's share price. This in turn may provide financial decision support to investors. This work has also resulted in the production of new datasets which may be further explored by other researchers.
 
-The repository is structred as follows:
+The repository is structured as follows:
 
-1. The DataPreprocessing folder contains the raw data used as well as the preprocessed data used in the analysis.
+1. The Data folder contains pre-processed data for each of the research questions investigated. This data may be used and further explored by other researchers.
 
-2. The Graph folder contaisn visualations of the results of test conducted.
+2. The DataPreprocessing folder contains the raw data used as well as the preprocessed data used in the analysis.
 
-3. KnowledgeGraphs_AndEmbeddings contains all Knowledge Graph related artifacts of the project.
+3. The Graph folder contains visualisations of the results of test conducted.
 
-4. Testing contains the python code and results of tests conducted. These python scripts are presented as Jupyter notebooks 
+4. KnowledgeGraphs_AndEmbeddings contains all Knowledge Graph related artifacts of the project.
+
+5. Testing contains the python code and results of tests conducted. These python scripts are presented as Jupyter notebooks 
 
 
