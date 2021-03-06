@@ -9,7 +9,7 @@ The repository is structured as follows:
 
 1. The Data folder contains pre-processed data for each of the research questions investigated. This data may be used and further explored by other researchers.
 
-2. The DataPreprocessing folder contains the raw data used as well as the preprocessed data used in the analysis.
+2. The DataPreprocessing folder contains the raw data used for each company (identified by their unique ticker symbol), as well as the preprocessed data used in the analysis.
 
 3. The Graph folder contains visualisations of the results of test conducted.
 
