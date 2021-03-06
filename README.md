@@ -40,7 +40,7 @@ Four datasets were created in answering each research question, one for each Bal
 - **Total Revenues**; this figure represents the total amount of a company's sales and other sources of income.
 - **Total Operating** Income; this figure represents the amount of profit realized from a business's operations after deducting operating expenses such as wages, depreciation and cost of goods sold.
 - **Total Net Income**; Net income is calculated as total revenues minus expenses, interest, and taxes.
-- **Revenue per Share*; This figure represents the total revenue earned per share.
+- **Revenue per Share**; This figure represents the total revenue earned per share.
 - **Normalized Basic Earnings per Share**; Normalized earnings remove one-off events and smooth seasonal affects on revenue. Normalized earnings better represent the true health of a company's core business.
 - **Dividend per Share**; Dividend per share is the sum of declared dividends issued by a company for every ordinary share outstanding. The figure is calculated by dividing the total dividends paid out by a business over a period of time by the number of outstanding ordinary shares issued.
 - **EBIT (Earnings before Interest, Taxes)**; This figure represents a company's net income before income tax expense and interest expenses are deducted. 
