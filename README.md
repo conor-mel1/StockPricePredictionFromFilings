@@ -69,4 +69,6 @@ Four datasets were created in answering each research question, one for each Bal
 - **Free Cash Flow per Share**; Free cash flow represents the cash a company generates after accounting for cash outflows to support operations and maintain its capital assets. Free Cash Flow per Share is simply this value divided by the total number of shares outstanding.
 
 
-Each of these features were chosen as they were common to all companies from all 10 sectors.
+Each of these features were chosen as they were common to all companies from all 10 sectors. 
+
+
