@@ -7,15 +7,15 @@ This project investigates the use of Machine Learning, Deep Learning and Knowled
 
 The repository is structured as follows:
 
-1. The Data folder contains pre-processed data for each of the research questions investigated. This data may be used and further explored by other researchers.
+1. The Data folder contains the pre-processed data for each of the research questions investigated. This data may be used and further explored by other researchers.
 
-2. The DataPreprocessing folder contains the raw data used for each company (identified by their unique ticker symbol), as well as the preprocessed data used in the analysis.
+2. The DataPreprocessing folder contains the raw data used for each company (identified by their unique ticker symbol), as well as the Jupyter notebooks used to preprocess the data for the analysis.
 
-3. The Graph folder contains visualisations of the results of tests conducted.
+3. The Graph folder contains the R code used to create the visualisations of the results of tests conducted.
 
-4. KnowledgeGraphs_AndEmbeddings contains all Knowledge Graph related artifacts of the project.
+4. KnowledgeGraphs_AndEmbeddings contains the notebooks used to generate embeddings for each company, and the results of tests conducted after adding these embeddings to the data used by the best performing algorithm for each research question.
 
-5. Testing contains the python code and results of tests conducted. These python scripts are presented as Jupyter notebooks 
+5. The Testing folder contains the python code and results of all tests conducted, including hyper-parameter tuning. 
 
 # Overview of Data 
 Companies listed on US Stock Exchanges are required to provide yearly financial disclosures to the Securities and Exchange Commission (SEC). This yearly statement is known as a 10-K filing, and provides a comprehensive summary of a company's financial performance. This filing allows investors to assess the financial state of a company before deciding to invest in the company. These disclosures are unstructured, containing sections of text/commentary as well as the financial data required for this analysis. Fortunately, some websites provide access to these filings in a structured, easy to use format. The website used to gather data for this research is Seeking Alpha (https://seekingalpha.com/), which provides these financial filings in CSV file format.
