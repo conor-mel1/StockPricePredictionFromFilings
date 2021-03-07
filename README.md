@@ -70,5 +70,3 @@ Four datasets were created in answering each research question, one for each Bal
 
 
 Each of these features were chosen as they were common to all companies from all 10 sectors. 
-
-
