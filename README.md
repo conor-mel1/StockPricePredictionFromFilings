@@ -11,7 +11,7 @@ The repository is structured as follows:
 
 2. The DataPreprocessing folder contains the raw data used for each company (identified by their unique ticker symbol), as well as the preprocessed data used in the analysis.
 
-3. The Graph folder contains visualisations of the results of test conducted.
+3. The Graph folder contains visualisations of the results of tests conducted.
 
 4. KnowledgeGraphs_AndEmbeddings contains all Knowledge Graph related artifacts of the project.
 
